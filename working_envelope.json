@@ -1,0 +1,482 @@
+[
+    {
+        "x": -1.927,
+        "y": -1.9105,
+        "z": -1.8805,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    2.0,
+                    2.0,
+                    -1.97
+                ],
+                "pipette_position": [
+                    2.073,
+                    2.0895,
+                    -1.8805
+                ]
+            }
+        }
+    },
+    {
+        "x": -1.927,
+        "y": -1.9105,
+        "z": 2.1195,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    2.0,
+                    2.0,
+                    2.03
+                ],
+                "pipette_position": [
+                    2.073,
+                    2.0895,
+                    2.1195
+                ]
+            }
+        }
+    },
+    {
+        "x": -1.927,
+        "y": 2.0895,
+        "z": -1.8805,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    2.0,
+                    -2.0,
+                    -1.97
+                ],
+                "pipette_position": [
+                    2.073,
+                    -1.9105,
+                    -1.8805
+                ]
+            }
+        }
+    },
+    {
+        "x": -1.927,
+        "y": 2.0895,
+        "z": 2.1195,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    2.0,
+                    -2.0,
+                    2.03
+                ],
+                "pipette_position": [
+                    2.073,
+                    -1.9105,
+                    2.1195
+                ]
+            }
+        }
+    },
+    {
+        "x": 2.073,
+        "y": -1.9105,
+        "z": -1.8805,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    -2.0,
+                    2.0,
+                    -1.97
+                ],
+                "pipette_position": [
+                    -1.927,
+                    2.0895,
+                    -1.8805
+                ]
+            }
+        }
+    },
+    {
+        "x": 2.073,
+        "y": -1.9105,
+        "z": 2.1195,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    -2.0,
+                    2.0,
+                    2.03
+                ],
+                "pipette_position": [
+                    -1.927,
+                    2.0895,
+                    2.1195
+                ]
+            }
+        }
+    },
+    {
+        "x": 2.073,
+        "y": 2.0895,
+        "z": -1.8805,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": -2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    -2.0,
+                    -2.0,
+                    -1.97
+                ],
+                "pipette_position": [
+                    -1.927,
+                    -1.9105,
+                    -1.8805
+                ]
+            }
+        }
+    },
+    {
+        "x": 2.073,
+        "y": 2.0895,
+        "z": 2.1195,
+        "state": {
+            "robotId_1": {
+                "joint_states": {
+                    "joint_0": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_1": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    },
+                    "joint_2": {
+                        "position": 2.0,
+                        "velocity": 0.0,
+                        "reaction_forces": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "motor_torque": 0.0
+                    }
+                },
+                "robot_position": [
+                    -2.0,
+                    -2.0,
+                    2.03
+                ],
+                "pipette_position": [
+                    -1.927,
+                    -1.9105,
+                    2.1195
+                ]
+            }
+        }
+    }
+]
